@@ -1,0 +1,11 @@
+$border-color: #808080;
+
+.app {
+  font-family: helvetica, arial, sans-serif;
+  padding: 2em;
+  border: 1px solid $border-color;
+  background-color: #dcdcdc;
+  p {
+    background-color: yellow;
+  }
+}
